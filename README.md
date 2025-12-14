@@ -27,8 +27,6 @@ A powerful, automated tool to scrape, filter, and analyze interview experiences 
 
 ## ⚡ Quick Start
 
-### Manual Setup
-
 Run each component in a separate terminal:
 
 **1. Backend Server:**
