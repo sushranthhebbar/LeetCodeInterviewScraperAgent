@@ -5,7 +5,7 @@ A powerful, automated tool to scrape, filter, and analyze interview experiences 
 ## 🚀 Features
 
 *   **Targeted Scraping**: Scrape posts by Company (e.g., "Google", "Amazon") and Time Range (e.g., "Last Month").
-*   **LLM-Powered Analysis**: Uses **Ollama** (or compatible LLMs) to intelligently parse posts, verify they are actual interview experiences/questions, and filter out spam or irrelevant "Status Update" posts.
+*   **LLM-Powered Analysis**: Uses **Ollama** to intelligently parse posts, verify they are actual interview experiences/questions, and filter out spam or irrelevant "Status Update" posts.
 *   **Smart Deduplication**: Automatically skips posts that have already been scraped.
 *   **Modern UI**: Clean React-based interface to control the scraper and view results.
 
@@ -28,7 +28,7 @@ Clicking on a result opens the detailed view, where you can read the full experi
 *   **Backend**: Node.js, Express
 *   **Database**: SQLite
 *   **Scraping**: Puppeteer
-*   **AI/ML**: Ollama or OpenAI API
+*   **AI/ML**: Ollama
 
 ## 📋 Prerequisites
 
