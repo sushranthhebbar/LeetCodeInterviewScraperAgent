@@ -4,20 +4,21 @@ A powerful, automated tool to scrape, filter, and analyze interview experiences 
 
 ## 🚀 Features
 
-*   **Targeted Scraping**: Filter posts by Company (e.g., "Google", "Amazon") and Time Range (e.g., "Last Month").
+*   **Targeted Scraping**: Scrape posts by Company (e.g., "Google", "Amazon") and Time Range (e.g., "Last Month").
 *   **LLM-Powered Analysis**: Uses **Ollama** (or compatible LLMs) to intelligently parse posts, verify they are actual interview experiences/questions, and filter out spam or irrelevant "Status Update" posts.
 *   **Smart Deduplication**: Automatically skips posts that have already been scraped.
 *   **Modern UI**: Clean React-based interface to control the scraper and view results.
-*   **Browser Automation**: Uses Puppeteer to navigate LeetCode, handling dynamic content, "Newest" sorting, and scrolling automatically.
 
 ## 📸 Visual Workflow
 
 **1. Search & Filter**
 The main dashboard allows you to target specific companies and time ranges. The AI Agent handles the scraping and deduplication automatically.
+
   ![](https://github.com/user-attachments/assets/79d1ff20-f5fd-40ca-a1ed-355a8ffae0dc)
   
 **2. Deep Dive & Analysis**
 Clicking on a result opens the detailed view, where you can read the full experience and save your own solution notes.
+
   <img width="1309" height="681" alt="image" src="https://github.com/user-attachments/assets/9cc91a80-e0f2-4612-93f7-a0564ca68b6a" />
 
 
