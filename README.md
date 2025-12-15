@@ -24,11 +24,11 @@ Clicking on a result opens the detailed view, where you can read the full experi
 
 ## 🛠️ Tech Stack
 
-*   **Frontend**: React, Vite, TailwindCSS (assumed style), Lucide Icons
+*   **Frontend**: React, Vite, TailwindCSS, Lucide Icons
 *   **Backend**: Node.js, Express
-*   **Database**: SQLite (`questions.db`)
-*   **Scraping**: Puppeteer (Chrome Automation)
-*   **AI/ML**: Ollama (Local LLM) or OpenAI API
+*   **Database**: SQLite
+*   **Scraping**: Puppeteer
+*   **AI/ML**: Ollama or OpenAI API
 
 ## 📋 Prerequisites
 
