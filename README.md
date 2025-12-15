@@ -10,6 +10,11 @@ A powerful, automated tool to scrape, filter, and analyze interview experiences 
 *   **Modern UI**: Clean React-based interface to control the scraper and view results.
 *   **Browser Automation**: Uses Puppeteer to navigate LeetCode, handling dynamic content, "Newest" sorting, and scrolling automatically.
 
+  ![StartPage](https://github.com/user-attachments/assets/79d1ff20-f5fd-40ca-a1ed-355a8ffae0dc)
+
+  <img width="1309" height="681" alt="image" src="https://github.com/user-attachments/assets/9cc91a80-e0f2-4612-93f7-a0564ca68b6a" />
+
+
 ## 🛠️ Tech Stack
 
 *   **Frontend**: React, Vite, TailwindCSS (assumed style), Lucide Icons
