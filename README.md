@@ -14,7 +14,7 @@ A powerful, automated tool to scrape, filter, and analyze interview experiences 
 
 **1. Search & Filter**
 The main dashboard allows you to target specific companies and time ranges. The AI Agent handles the scraping and deduplication automatically.
-  !(https://github.com/user-attachments/assets/79d1ff20-f5fd-40ca-a1ed-355a8ffae0dc)
+  ![](https://github.com/user-attachments/assets/79d1ff20-f5fd-40ca-a1ed-355a8ffae0dc)
   
 **2. Deep Dive & Analysis**
 Clicking on a result opens the detailed view, where you can read the full experience and save your own solution notes.
