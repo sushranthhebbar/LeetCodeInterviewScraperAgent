@@ -10,9 +10,15 @@ A powerful, automated tool to scrape, filter, and analyze interview experiences 
 *   **Modern UI**: Clean React-based interface to control the scraper and view results.
 *   **Browser Automation**: Uses Puppeteer to navigate LeetCode, handling dynamic content, "Newest" sorting, and scrolling automatically.
 
-  ![StartPage](https://github.com/user-attachments/assets/79d1ff20-f5fd-40ca-a1ed-355a8ffae0dc)
+## 📸 Visual Workflow
 
-  <img width="1309" height="681" alt="image" src="https://github.com/user-attachments/assets/9cc91a80-e0f2-4612-93f7-a0564ca68b6a" />
+**1. Search & Filter**
+The main dashboard allows you to target specific companies and time ranges. The AI Agent handles the scraping and deduplication automatically.
+  ![Dashboard View](https://github.com/user-attachments/assets/79d1ff20-f5fd-40ca-a1ed-355a8ffae0dc)
+  
+**2. Deep Dive & Analysis**
+Clicking on a result opens the detailed view, where you can read the full experience and save your own solution notes.
+  ![Question Detail View]<img width="1309" height="681" alt="image" src="https://github.com/user-attachments/assets/9cc91a80-e0f2-4612-93f7-a0564ca68b6a" />
 
 
 ## 🛠️ Tech Stack
